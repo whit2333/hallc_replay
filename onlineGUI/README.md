@@ -13,7 +13,7 @@ Directory structure
 
 Compiling code
 ----------------------
-* In onlineGUI_v1.2.1 directory tyep: make
+* In onlineGUI_v1.2.1 directory type: make
 * executable "online" is created in the onlineGUI directory
 
 Documentation and Running the code
@@ -21,6 +21,7 @@ Documentation and Running the code
 * The pdf file  guiHOWTO2007.pdf documents how to use the code
 * One method to run the code is:
   * online -f Config/hmsdc.cfg -r 60
+  * "60" is the run number
   * This assumes that hmsdc.cfg as a line such as:protorootfile ../ROOTfiles/hms1190_XXXXX.root
 
 
